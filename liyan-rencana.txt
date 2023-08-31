@@ -2,5 +2,4 @@ rencana liyan
 -belajar react 
 -belajar vue
 -belajar javascript
--belajar vanilla css
-
+-python
