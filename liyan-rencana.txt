@@ -2,4 +2,4 @@ rencana liyan
 -belajar react 
 -belajar vue
 -belajar javascript
--membuat website 
+
