@@ -1,5 +1,5 @@
 rencana liyan
 -belajar react 
 -belajar vue
--belajar jasascript
+-belajar javascript
 -membuat website 
