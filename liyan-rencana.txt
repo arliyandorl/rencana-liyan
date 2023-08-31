@@ -3,4 +3,5 @@ rencana liyan
 -belajar vue
 -belajar javascript
 -belajar vanilla css
+-python
 
